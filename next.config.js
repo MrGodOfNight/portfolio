@@ -14,5 +14,6 @@ const config = {
         parallelServerBuildTraces: true,
         parallelServerCompiles: true,
     },
+    output: 'export',
 };
 module.exports = config;
