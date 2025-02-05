@@ -1,0 +1,19 @@
+{
+  "en": {
+    "title": "Astramed Expertise",
+    "description": "A web application built on the t3 stack using React Query.\nIt was developed by me and my colleague for the company 'Астрамед-МС', which specializes in compulsory medical insurance.\nThis application is an internal tool for the company, used by employees who are medical experts.",
+    "image": "astra.jpg",
+    "technologies": ["t3 stack", "React", "Node.js", "TypeScript",
+      "Next.js", "TailwindCSS", "PostgreSQL", "React Query"],
+    "video": "astra.mp4"
+  },
+  "ru": {
+    "title": "Астрамед экспертиза",
+    "description": "Web-приложение на  t3 stack с использованием React Query.\nОно было разработано мной и моим коллегой для компании \"Астрамед-МС\", которая занимается обязательным медицинским страхованием.\nДанное приложение является внутренним приложением для компании. С ним работают сотрудники-медицинские эксперты.",
+    "image": "astra.jpg",
+    "technologies": ["t3 stack", "React", "Node.js", "TypeScript",
+      "Next.js", "TailwindCSS", "PostgreSQL", "React Query"],
+    "video": "astra.mp4"
+  }
+}
+

@@ -1,0 +1,17 @@
+{
+  "en": {
+    "title": "Welcome to My Portfolio",
+    "name": "Ushakov Igor",
+    "profession": "Developer, Project Manager",
+    "profileImage": "myPhoto.jpg",
+    "summary": "Main stack: C#, WPF, React, TypeScript, Node.js, Golang ( Go ).\nNow I am developing a web application on t3 stack + Golang, where the client-application is on t3 and the server is on Go (Golang). The application tracks the working hours of employees and compiles statistics on it.\nI wrote server code in TypeScript .\nWorked on a game engine in C++ using openGL library .\nThere are several projects in different programming languages.\nIn recent years I have been studying at the Ural Radio-Technical College named after Popov. Popov at the specialty “Information systems and programming” and moved to the 4th year (the last one).\nI gathered a team to develop a game for the contest. We reached the finals. In the team was the head and the main gamedesigner.\nI know languages: C, C++, JavaScript, C# and Go (Golang).\nWorked with PostgreSQL.\nWell spoken and have many softskills needed to work with people. I also have leadership skills.\nI am an active person and participate in many projects from “Rosmolodezh” and “Russia - the Country of Opportunities”."
+  },
+  "ru": {
+    "title": "Добро пожаловать в моё портфолио",
+    "name": "Игорь Ушаков",
+    "profession": "Разработчик, Руководитель проектов",
+    "profileImage": "myPhoto.jpg",
+    "summary": "Основной стек: C#, WPF, React, TypeScript, Node.js, Golang ( Go )\nСейчас разрабатываю web приложение на t3 stack + Golang, где клиент-приложение на t3, а сервер на Go (Golang). Приложение отслеживает рабочее время сотрудников и составляет статистику по нему.\nПисал серверный код на TypeScript .\nРаботал над игровым движком на С++ с использованием библиотеки openGL .\nЕсть несколько проектов на разных языках программирования.\nВ последние годы я прохожу обучение в Уральском радиотехническом колледже им. Попова на специальности \"Информационные системы и программирование\" и перешёл на 4 курс (последний).\nСобрал команду для разработки игры на конкурс. Вышли в финал. В команде был руководителем и главным геймдизанером.\nВладею языками: C , С++ , JavaScript , С# и Go ( Golang ) .\nРаботал с PostgreSQL .\nХорошо поставленная речь и имеется много softskills необходимых для работы с людьми. Также обладаю навыками лидера.\nЯвляюсь активным человеком и участвую во множестве проектов от \" Росмолодёжь \" и \" Россия - Страна Возможностей \"."
+  }
+}
+

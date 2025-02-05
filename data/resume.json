@@ -1,0 +1,93 @@
+{
+  "en": {
+    "title": "Resume",
+    "experience": {
+      "title": "Work Experience",
+      "items": [
+        {
+          "position": "Senior Full Stack Developer",
+          "company": "Insurance Medical Company \"Astramed-MS\"",
+          "period": "January 2024 — November 2024",
+          "responsibilities": [
+            "Developed a web application for medical examination using the T3+PostgreSQL stack.",
+            "Used tRPC for client-server interaction. Fully designed and developed the system.",
+            "Wrote project documentation and presented it to the manager and clients, including medical experts."
+          ]
+        },
+        {
+          "position": "Creative Director, Project Manager, Systems Analyst, Game Designer",
+          "company": "Malachite Box",
+          "period": "July 2022 — March 2023",
+          "responsibilities": [
+            "From scratch, I assembled a development team (artists, programmers, composer) and brought the computer game development to the beta stage.",
+            "Under my leadership, the team reached the finals of the \"Start the Game\" competition."
+          ]
+        },
+        {
+          "position": "Additional Education Instructor",
+          "company": "Computer Academy Top",
+          "period": "September 2023 — August 2024",
+          "responsibilities": [
+            "Taught programming languages: C++, C#, WPF, ASP.NET, Blazor, and Python."
+          ]
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+          "degree": "Secondary Specialized Education. Field: Information Systems and Programming",
+          "institution": "URT College named after Popov",
+          "period": "2021 - 2025"
+        }
+      ]
+    }
+  },
+  "ru": {
+    "title": "Резюме",
+    "experience": {
+      "title": "Опыт работы",
+      "items": [
+        {
+          "position": "Ведущий Full Stack разработчик",
+          "company": "Страховая Медицинская Компания \"Астрамед-МС\"",
+          "period": "Январь 2024 — Ноябрь 2024",
+          "responsibilities": [
+            "С помощью стека T3+postgresql реализовал веб-приложение для медицинской экспертизы.",
+            "Используется tRPC для клиент-серверного взаимодействия. Полностью спроектировал и разработал систему.",
+            "Написал документацию по проекту и продемонстрировал руководителю и заказчикам в лице мед экспертов"
+          ]
+        },
+        {
+          "position": "Креативный директор, Руководитель проекта, Системный аналитик, Геймдизайнер",
+          "company": "Malachite Box",
+          "period": "Июль 2022 — Март 2023",
+          "responsibilities": [
+            "С нуля собрал команду разработки (художники, программисты, композитор) и довёл разработку компьютерной игры до стадии беты.",
+            "Под моим руководством команда вышла в финал конкурса \"Начни игру\"."
+          ]
+        },
+        {
+          "position": "Педагог дополнительного образования",
+          "company": "Компьютерная академия Top",
+          "period": "Сентябрь 2023 — Август 2024",
+          "responsibilities": [
+            "Преподавал языки программирования: C++ , С# , WPF , ASP .NET , Blazor и python"
+          ]
+        }
+      ]
+    },
+    "education": {
+      "title": "Образование",
+      "items": [
+        {
+          "degree": "Среднее специальное образование. Направление: Информационные системы и программирование",
+          "institution": "УРТК им. Попова",
+          "period": "2021 - 2025"
+        }
+      ]
+    }
+  }
+}
+

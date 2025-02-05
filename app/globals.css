@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gradient-1: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+  --gradient-2: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+  --gradient-3: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+body {
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+.dark body {
+  background-color: #1a202c;
+  color: #f7fafc;
+}
+
+.gradient-text {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.gradient-1 {
+  background-image: var(--gradient-1);
+}
+
+.gradient-2 {
+  background-image: var(--gradient-2);
+}
+
+.gradient-3 {
+  background-image: var(--gradient-3);
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+

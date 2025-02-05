@@ -1,0 +1,15 @@
+{
+  "en": {
+    "title": "My Resume",
+    "description": "The website you are currently on. A simple Next.js site designed to showcase my projects.",
+    "image": "resume.jpg",
+    "technologies": ["React", "Node.js", "TypeScript", "Next.js", "TailwindCSS"]
+  },
+  "ru": {
+    "title": "Моё резюме",
+    "description": "Сайт, на котором вы находитесь. Простой сайт на next.js для того, что-бы продемонстрировать мои проекты",
+    "image": "resume.jpg",
+    "technologies": ["React", "Node.js", "TypeScript", "Next.js", "TailwindCSS"]
+  }
+}
+

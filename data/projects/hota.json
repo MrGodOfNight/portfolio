@@ -1,0 +1,17 @@
+{
+  "en": {
+    "title": "House of the Absurd",
+    "description": "A game in the 2D PixelArt horror genre. It was developed by a team of 5 people, including myself.\nWe reached the finals of the 'Start the Game' competition organized by the 'Russia - Land of Opportunities' platform. I fully managed the development process but did not personally participate in the coding. My role in the project involved creating the full project documentation (game design document, project passport, technical task for employees, pitch document, pitch presentation, and calendar plan), and overseeing all development departments (artists, programmers, and sound director).\nThe project reached the beta stage and was closed immediately after achieving its goals. The objectives were to reach the competition finals and find an investor. An investor was found, but due to the political situation, they left the Russian market. Continuing any further collaboration on the project became unfeasible, so it was ultimately discontinued.",
+    "image": "hota.jpg",
+    "technologies": ["Unity", "C#"],
+    "video": "hota.mp4"
+  },
+  "ru": {
+    "title": "House of the Absurd",
+    "description": "Игра в жанре 2D PixelArt horror. Разрабатывалась командой из 5 человек включая меня.\nМы дошли до финала конкурса \"Начни Игру\" от платформы \"Россия-страна возможностей\". Я полностью руководил процессом разработки, но самостоятельно в ней не участвовал (не писал код). Моя роль в проекте заключалась в том, что я расписал полностью проект, документацию по нему (геймдизайн-документ, паспорт проекта, техническое задание сотрудникам, питч-документ, питч-презентация, календарный план) и руководил всеми отделами разработки (художники, программист и режиссёр по звуку).\nПроект дошёл до стадии бета версии и был закрыт сразу после достижения целей. Целями проекта был выход в финал конкурса и поиск инвестора. Инвестор был найден, но из-за политической обстановки он покинул Российский рынок. Продолжать какое-либо взаимодествие по проекту в итоге оказалось нерациональным и проект был закончен.",
+    "image": "hota.jpg",
+    "technologies": ["unity", "c#"],
+    "video": "hota.mp4"
+  }
+}
+

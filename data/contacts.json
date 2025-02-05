@@ -1,0 +1,53 @@
+{
+  "en": {
+    "title": "Contact Me",
+    "description": "Feel free to reach out to me for any inquiries or opportunities.",
+    "email": "Email",
+    "emailAddress": "ushakov.igor2004@gmail.com",
+    "phone": "Phone",
+    "phoneNumber": "+7 (953) 822-45-33",
+    "location": "Location",
+    "address": "Russia, Yekaterinburg",
+    "socialMedia": "Social Media",
+    "socialLinks": [
+      {
+        "name": "Telegram",
+        "url": "https://t.me/Unix1002001"
+      },
+      {
+        "name": "VK",
+        "url": "https://vk.com/ingvar_volsson"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/MrGodOfNight"
+      }
+    ]
+  },
+  "ru": {
+    "title": "Свяжитесь со мной",
+    "description": "Не стесняйтесь обращаться ко мне по любым вопросам или возможностям сотрудничества.",
+    "email": "Электронная почта",
+    "emailAddress": "ushakov.igor2004@gmail.com",
+    "phone": "Телефон",
+    "phoneNumber": "+7 (953) 822-45-33",
+    "location": "Местоположение",
+    "address": "Россия, Екатеринбург",
+    "socialMedia": "Социальные сети",
+    "socialLinks": [
+      {
+        "name": "Telegram",
+        "url": "https://t.me/Unix1002001"
+      },
+      {
+        "name": "VK",
+        "url": "https://vk.com/ingvar_volsson"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/MrGodOfNight"
+      }
+    ]
+  }
+}
+
