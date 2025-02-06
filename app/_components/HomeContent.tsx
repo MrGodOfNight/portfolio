@@ -2,6 +2,7 @@
 
 import Image from "next/image"
 import { useLanguage } from "../_contexts/LanguageContext"
+import {formatText} from "@/app/_utils/formatText";
 
 export default function HomeContent({ data }: { data: any }) {
   const { language } = useLanguage()
@@ -23,10 +24,7 @@ export default function HomeContent({ data }: { data: any }) {
           <p className="text-xl text-gray-600 dark:text-gray-400">{content.profession}</p>
         </div>
       </div>
-      <div className="prose dark:prose-invert">
-        <p>{content.summary}</p>
-      </div>
+      <div className="prose dark:prose-invert">{formatText(content.summary)}</div>
     </div>
   )
 }
-

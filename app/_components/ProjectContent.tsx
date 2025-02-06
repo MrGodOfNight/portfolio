@@ -2,6 +2,7 @@
 
 import {useLanguage} from "@/app/_contexts/LanguageContext";
 import Image from "next/image";
+import {formatText} from "@/app/_utils/formatText";
 
 export default function ProjectContent({ data }: { data: any }) {
   const { language } = useLanguage()
@@ -19,7 +20,7 @@ export default function ProjectContent({ data }: { data: any }) {
           className="w-full h-64 object-cover"
         />
         <div className="p-6">
-          <p className="text-gray-600 dark:text-gray-400 mb-4">{content.description}</p>
+          <p className="text-gray-600 dark:text-gray-400 mb-4">{formatText(content.description)}</p>
           <div className="flex flex-wrap gap-2 mb-4">
             {content.technologies.map((tech: string, index: number) => (
               <span key={index} className="px-2 py-1 text-xs font-semibold text-white bg-blue-500 rounded-full">

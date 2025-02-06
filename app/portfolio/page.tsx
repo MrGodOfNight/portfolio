@@ -1,4 +1,4 @@
-import { loadData } from "../utils/loadData"
+import { loadData } from "@/app/_utils/loadData"
 import PortfolioContent from "@/app/_components/PortfolioContent";
 
 export default async function Portfolio() {

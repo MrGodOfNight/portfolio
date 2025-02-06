@@ -1,4 +1,4 @@
-import { loadData } from "../../utils/loadData"
+import { loadData } from "@/app/_utils/loadData"
 import { notFound } from "next/navigation"
 import ProjectContent from "@/app/_components/ProjectContent";
 

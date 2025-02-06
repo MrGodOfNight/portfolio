@@ -1,6 +1,7 @@
 "use client"
 
 import { useLanguage } from "@/app/_contexts/LanguageContext"
+import {formatText} from "@/app/_utils/formatText";
 
 export default function ResumeContent({ data }: { data: any }) {
   const { language } = useLanguage()
@@ -19,7 +20,7 @@ export default function ResumeContent({ data }: { data: any }) {
             </p>
             <ul className="list-disc list-inside mt-2">
               {item.responsibilities.map((resp: string, idx: number) => (
-                <li key={idx}>{resp}</li>
+                <li key={idx}>{formatText(resp)}</li>
               ))}
             </ul>
           </div>

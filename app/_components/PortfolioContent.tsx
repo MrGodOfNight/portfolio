@@ -3,6 +3,7 @@
 import {useLanguage} from "@/app/_contexts/LanguageContext";
 import Image from "next/image";
 import Link from "next/link";
+import {formatText} from "@/app/_utils/formatText";
 
 export default function PortfolioContent({ data }: { data: any }) {
   const { language } = useLanguage()
@@ -33,7 +34,7 @@ export default function PortfolioContent({ data }: { data: any }) {
             </div>
             <div className="p-6">
               <h2 className="text-xl font-semibold mb-2 gradient-text gradient-2">{project.title}</h2>
-              <p className="text-gray-600 dark:text-gray-400 mb-4">{project.description}</p>
+              <p className="text-gray-600 dark:text-gray-400 mb-4">{formatText(project.description)}</p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {project.technologies.map((tech: string, techIndex: number) => (
                   <span
@@ -51,4 +52,3 @@ export default function PortfolioContent({ data }: { data: any }) {
     </div>
   )
 }
-

@@ -1,6 +1,7 @@
 "use client"
 
 import {useLanguage} from "@/app/_contexts/LanguageContext";
+import {formatText} from "@/app/_utils/formatText";
 
 export default function ContactsContent({ data }: { data: any }) {
   const { language } = useLanguage()
@@ -10,7 +11,7 @@ export default function ContactsContent({ data }: { data: any }) {
     <div className="max-w-4xl mx-auto">
       <h1 className="text-4xl font-bold mb-6">{content.title}</h1>
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
-        <p className="mb-4">{content.description}</p>
+        <p className="mb-4">{formatText(content.description)}</p>
         <ul className="space-y-2">
           <li>
             <strong>{content.email}:</strong> {content.emailAddress}
@@ -42,4 +43,3 @@ export default function ContactsContent({ data }: { data: any }) {
     </div>
   )
 }
-

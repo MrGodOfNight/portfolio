@@ -1,4 +1,4 @@
-import { loadData } from "../utils/loadData"
+import { loadData } from "@/app/_utils/loadData"
 import ContactsContent from "@/app/_components/ContactsContent";
 
 export default async function Contacts() {

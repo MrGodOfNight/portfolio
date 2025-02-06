@@ -1,4 +1,4 @@
-import { loadData } from "../utils/loadData"
+import { loadData } from "@/app/_utils/loadData"
 import { useLanguage } from "@/app/_contexts/LanguageContext"
 import ResumeContent from "@/app/_components/ResumeContent";
 
