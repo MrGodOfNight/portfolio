@@ -9,7 +9,20 @@
       "Go", "Golang", "C#", "WPF", "Avalonia", "SQL",
       "PostgreSQL", "ElasticSearch", "ITSM", "ITIL", "Agile",
       "Kanban", "Trello", "MS Office", "XML", "RabbitMQ",
-      "HTML", "CSS", "TailwindCSS", "Git", "LINQ"]
+      "HTML", "CSS", "TailwindCSS", "Git", "LINQ"],
+    "skills": [
+      { "name": "SQL", "level": 5 },
+      { "name": "JavaScript", "level": 4 },
+      { "name": "React", "level": 4 },
+      { "name": "Node.js", "level": 4 },
+      { "name": "TypeScript", "level": 4 },
+      { "name": "C#", "level": 3 },
+      { "name": "WPF", "level": 3 },
+      { "name": "Avalonia", "level": 2 },
+      { "name": "Go", "level": 4 },
+      { "name": "RabbitMQ", "level": 3 },
+      { "name": "ElasticSearch", "level": 3 }
+    ]
   },
   "ru": {
     "title": "Добро пожаловать в моё портфолио",
@@ -21,7 +34,20 @@
       "Go", "Golang", "C#", "WPF", "Avalonia", "SQL",
       "PostgreSQL", "ElasticSearch", "ITSM", "ITIL", "Agile",
       "Kanban", "Trello", "MS Office", "XML", "RabbitMQ",
-      "HTML", "CSS", "TailwindCSS", "Git", "LINQ"]
+      "HTML", "CSS", "TailwindCSS", "Git", "LINQ"],
+    "skills": [
+      { "name": "SQL", "level": 5 },
+      { "name": "JavaScript", "level": 4 },
+      { "name": "React", "level": 4 },
+      { "name": "Node.js", "level": 4 },
+      { "name": "TypeScript", "level": 4 },
+      { "name": "C#", "level": 3 },
+      { "name": "WPF", "level": 3 },
+      { "name": "Avalonia", "level": 2 },
+      { "name": "Go", "level": 4 },
+      { "name": "RabbitMQ", "level": 3 },
+      { "name": "ElasticSearch", "level": 3 }
+    ]
   }
 }
 

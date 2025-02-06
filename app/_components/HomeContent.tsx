@@ -5,9 +5,24 @@ import { useLanguage } from "../_contexts/LanguageContext"
 import {formatText} from "@/app/_utils/formatText";
 import { motion } from "framer-motion"
 
+interface Skills {
+  name: string,
+  level: number,
+}
+
 export default function HomeContent({ data }: { data: any }) {
   const { language } = useLanguage()
   const content = data[language]
+
+  const SkillLevel = ({ level }: { level: number }) => {
+    return (
+      <div className="flex space-x-1">
+        {[1, 2, 3, 4, 5].map((i) => (
+          <div key={i} className={`w-3 h-3 rounded-full ${i <= level ? "bg-indigo-600" : "bg-gray-300"}`}></div>
+        ))}
+      </div>
+    )
+  }
 
   return (
     <div className="max-w-4xl mx-auto">
@@ -40,7 +55,18 @@ export default function HomeContent({ data }: { data: any }) {
           ))}
         </div>
       </div>
-      <div className="prose dark:prose-invert">{formatText(content.summary)}</div>
+      <div className="prose dark:prose-invert mb-8">{formatText(content.summary)}</div>
+      <div className="mb-8">
+        <h3 className="text-xl font-semibold mb-3">{language === "en" ? "Skills" : "Навыки"}</h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {content.skills.map((skill: Skills, index: number) => (
+            <div key={index} className="flex items-center justify-between">
+              <span className="text-sm font-medium">{skill.name}</span>
+              <SkillLevel level={skill.level} />
+            </div>
+          ))}
+        </div>
+      </div>
     </div>
   )
 }
