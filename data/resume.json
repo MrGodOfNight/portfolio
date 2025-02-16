@@ -5,6 +5,16 @@
       "title": "Work Experience",
       "items": [
         {
+          "position": "Instructor of Professional Disciplines, Programming",
+          "company": "TOP IT COLLEGE",
+          "period": "February 2025 — Present",
+          "responsibilities": [
+            "Teach professional disciplines and programming at the college.",
+            "Train students in IT project management, programming on the .NET platform, and the C# programming language.",
+            "Teach students the WPF framework."
+          ]
+        },
+        {
           "position": "Senior Full Stack Developer",
           "company": "Insurance Medical Company \"Astramed-MS\"",
           "period": "January 2024 — November 2024",
@@ -49,6 +59,16 @@
     "experience": {
       "title": "Опыт работы",
       "items": [
+        {
+          "position": "Преподаватель профессиональных дисциплин, программирования",
+          "company": "TOP IT COLLEGE",
+          "period": "Февраль 2025 — Настоящее время",
+          "responsibilities": [
+            "Преподаю в колледже профессиональные дисциплины и программирование.",
+            "Обучаю управлению IT проектами, программированию на платформе .NET и языку программирования C#.",
+            "Обучаю студентов фреймворком WPF"
+          ]
+        },
         {
           "position": "Ведущий Full Stack разработчик",
           "company": "Страховая Медицинская Компания \"Астрамед-МС\"",
