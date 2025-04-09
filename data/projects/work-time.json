@@ -1,9 +1,9 @@
 {
   "en": {
     "title": "Work Time Tracking",
-    "description": "A web application built on a microservice architecture. The backend consists of microservices written in Golang, while the client is built using the t3 stack, which also serves as an API Gateway with server-side rendering of React.\nThis is a Kanban board that tracks time spent on tasks and provides statistics for that time. It includes an admin panel for administrators to manage users.\nThe project is specifically designed for companies that operate based on the data-driven approach and want all their business processes to follow this principle.\nCurrently, the application is still under development, and here I offer an overview of the functionality that is available at this stage.",
+    "description": "A web application built on a microservice architecture. The backend consists of microservices written in Golang, while the client is built using the Next with server-side rendering of React.\nThis is a Kanban board that tracks time spent on tasks and provides statistics for that time. It includes an admin panel for administrators to manage users.\nThe project is specifically designed for companies that operate based on the data-driven approach and want all their business processes to follow this principle.\nCurrently, the application is still under development, and here I offer an overview of the functionality that is available at this stage.",
     "image": "work-time.jpg",
-    "technologies": ["Golang", "t3 stack", "React", "Node.js", "TypeScript",
+    "technologies": ["Golang", "React", "Node.js", "TypeScript",
       "Next.js", "TailwindCSS", "PostgreSQL"],
     "video": "work-time.mkv",
     "screenshots": [
@@ -13,9 +13,9 @@
   },
   "ru": {
     "title": "Учёт рабочего времени",
-    "description": "Web-приложение на микросервисной архитектуре. В бэке микросервисы на Golang, а клиент на t3 stack который сразу образует API GateWay с серверным рендерингом React.\nЭто канбан с учётом рабочего времени на задачи и статистикой по этому времени. Есть админ-панель для администраторов для управления пользователями.\nПроект сделан специально для компаний, которые работают по data-driven принципу и хотят, что-бы все их бизнес процессы работали по этому принципу.\nНа данный момент приложение на стадии разработки и здесь я предлагаю ознакомиться с функционалом, который готов на данный момент.",
+    "description": "Web-приложение на микросервисной архитектуре. В бэке микросервисы на Golang, а клиент на Next с серверным рендерингом React.\nЭто канбан с учётом рабочего времени на задачи и статистикой по этому времени. Есть админ-панель для администраторов для управления пользователями.\nПроект сделан специально для компаний, которые работают по data-driven принципу и хотят, что-бы все их бизнес процессы работали по этому принципу.\nНа данный момент приложение на стадии разработки и здесь я предлагаю ознакомиться с функционалом, который готов на данный момент.",
     "image": "work-time.jpg",
-    "technologies": ["Golang", "t3 stack", "React", "Node.js", "TypeScript",
+    "technologies": ["Golang", "React", "Node.js", "TypeScript",
       "Next.js", "TailwindCSS", "PostgreSQL"],
     "video": "work-time.mkv",
     "screenshots": [

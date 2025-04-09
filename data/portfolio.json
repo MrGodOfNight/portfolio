@@ -15,7 +15,7 @@
         "description": "A Kanban board with time tracking. This project is essential for companies that want to integrate analytics into their business processes.",
         "image": "work-time.jpg",
         "slug": "work-time",
-        "technologies": ["Golang", "t3 stack", "React", "Node.js", "TypeScript",
+        "technologies": ["Golang", "React", "Node.js", "TypeScript",
           "Next.js", "TailwindCSS", "PostgreSQL"]
       },
       {
@@ -51,7 +51,7 @@
         "description": "Канбан с учётом рабочего времени. Проект необходим для компаний, которые хотят внедрить аналитику в свои бизнес процессы",
         "image": "work-time.jpg",
         "slug": "work-time",
-        "technologies": ["Golang", "t3 stack", "React", "Node.js", "TypeScript",
+        "technologies": ["Golang", "React", "Node.js", "TypeScript",
           "Next.js", "TailwindCSS", "PostgreSQL"]
       },
       {
