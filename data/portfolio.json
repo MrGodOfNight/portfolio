@@ -24,7 +24,7 @@
         "image": "astra.jpg",
         "slug": "astramed",
         "technologies": ["t3 stack", "React", "Node.js", "TypeScript",
-          "Next.js", "TailwindCSS", "PostgreSQL"]
+          "Next.js", "TailwindCSS", "PostgreSQL", "tRPC"]
       },
       {
         "title": "HouseOfTheAbsurd",
