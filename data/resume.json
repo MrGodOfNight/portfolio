@@ -15,22 +15,22 @@
           ]
         },
         {
+          "position": "Additional Education Teacher",
+          "company": "Top Computer Academy",
+          "period": "September 2023 — Present",
+          "responsibilities": [
+            "Taught programming languages: C++, C#, WPF, ASP.NET, Blazor, and Python",
+            "Graduated several student groups, some of whom received job offers from major tech companies in Russia"
+          ]
+        },
+        {
           "position": "Lead Full Stack Developer",
           "company": "Astramed-MS Medical Insurance Company",
-          "period": "January 2024 — November 2024",
+          "period": "January 2024 — December 2024",
           "responsibilities": [
             "Developed a web application for medical expertise using the T3 stack (Next.js, TypeScript, PostgreSQL), improving application performance by 65%",
             "Implemented tRPC for client-server communication, simplifying application maintenance by eliminating the client-server separation",
             "Prepared technical documentation and conducted 15+ demo sessions for medical experts, achieving 100% customer approval of the system"
-          ]
-        },
-        {
-          "position": "Additional Education Teacher",
-          "company": "Top Computer Academy",
-          "period": "September 2023 — August 2024",
-          "responsibilities": [
-            "Taught programming languages: C++, C#, WPF, ASP.NET, Blazor, and Python",
-            "Graduated several student groups, some of whom received job offers from major tech companies in Russia"
           ]
         },
         {
@@ -76,22 +76,22 @@
           ]
         },
         {
+          "position": "Педагог дополнительного образования",
+          "company": "Компьютерная академия Top",
+          "period": "Сентябрь 2023 — Настоящее время",
+          "responsibilities": [
+            "Преподавал языки программирования: C++ , С# , WPF , ASP .NET , Blazor и python",
+            "Выпустил несколько групп, из которых есть студенты получившие офферы в биг-тех компании РФ"
+          ]
+        },
+        {
           "position": "Ведущий Full Stack разработчик",
           "company": "Страховая Медицинская Компания \"Астрамед-МС\"",
-          "period": "Январь 2024 — Ноябрь 2024",
+          "period": "Январь 2024 — Декабрь 2024",
           "responsibilities": [
             "Создал веб-приложение для медицинской экспертизы на стеке T3 (Next.js, TypeScript, PostgreSQL), увеличив скорость работы приложения на 65%",
             "Внедрил tRPC для клиент-серверного взаимодействия, что упростило поддержку приложения за счёт устранения разделения приложения на клиент-сервер",
             "Подготовил техническую документацию и провёл 15+ демо-сессий для медицинских экспертов, добившись 100% одобрения системы заказчиком"
-          ]
-        },
-        {
-          "position": "Педагог дополнительного образования",
-          "company": "Компьютерная академия Top",
-          "period": "Сентябрь 2023 — Август 2024",
-          "responsibilities": [
-            "Преподавал языки программирования: C++ , С# , WPF , ASP .NET , Blazor и python",
-            "Выпустил несколько групп, из которых есть студенты получившие офферы в биг-тех компании РФ"
           ]
         },
         {
