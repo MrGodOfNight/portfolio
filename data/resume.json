@@ -5,40 +5,41 @@
       "title": "Work Experience",
       "items": [
         {
-          "position": "Instructor of Professional Disciplines, Programming",
+          "position": "Programming Instructor",
           "company": "TOP IT COLLEGE",
           "period": "February 2025 — Present",
           "responsibilities": [
-            "Teach professional disciplines and programming at the college.",
-            "Train students in IT project management, programming on the .NET platform, and the C# programming language.",
-            "Teach students the WPF framework."
+            "Teach the following subjects at the college:",
+            "IT Project Management, .NET platform programming and the C# programming language,",
+            "WPF Framework"
           ]
         },
         {
-          "position": "Senior Full Stack Developer",
-          "company": "Insurance Medical Company \"Astramed-MS\"",
+          "position": "Lead Full Stack Developer",
+          "company": "Astramed-MS Medical Insurance Company",
           "period": "January 2024 — November 2024",
           "responsibilities": [
-            "Developed a web application for medical examination using the T3+PostgreSQL stack.",
-            "Used tRPC for client-server interaction. Fully designed and developed the system.",
-            "Wrote project documentation and presented it to the manager and clients, including medical experts."
+            "Developed a web application for medical expertise using the T3 stack (Next.js, TypeScript, PostgreSQL), improving application performance by 65%",
+            "Implemented tRPC for client-server communication, simplifying application maintenance by eliminating the client-server separation",
+            "Prepared technical documentation and conducted 15+ demo sessions for medical experts, achieving 100% customer approval of the system"
           ]
         },
         {
-          "position": "Creative Director, Project Manager, Systems Analyst, Game Designer",
+          "position": "Additional Education Teacher",
+          "company": "Top Computer Academy",
+          "period": "September 2023 — August 2024",
+          "responsibilities": [
+            "Taught programming languages: C++, C#, WPF, ASP.NET, Blazor, and Python",
+            "Graduated several student groups, some of whom received job offers from major tech companies in Russia"
+          ]
+        },
+        {
+          "position": "Creative Director, Project Lead, Systems Analyst, Game Designer",
           "company": "Malachite Box",
           "period": "July 2022 — March 2023",
           "responsibilities": [
-            "From scratch, I assembled a development team (artists, programmers, composer) and brought the computer game development to the beta stage.",
-            "Under my leadership, the team reached the finals of the \"Start the Game\" competition."
-          ]
-        },
-        {
-          "position": "Additional Education Instructor",
-          "company": "Computer Academy Top",
-          "period": "September 2023 — August 2024",
-          "responsibilities": [
-            "Taught programming languages: C++, C#, WPF, ASP.NET, Blazor, and Python."
+            "Assembled and led a team of 8 specialists, advancing the game to beta version within 8 months and increasing user engagement by 50% during testing",
+            "Successfully reached the finals of the \"Start the Game\" competition, reaching an audience of 10,000+ people"
           ]
         }
       ]
@@ -47,9 +48,14 @@
       "title": "Education",
       "items": [
         {
-          "degree": "Secondary Specialized Education. Field: Information Systems and Programming",
-          "institution": "URT College named after Popov",
-          "period": "2021 - 2025"
+        "degree": "Secondary Vocational Education. Field: Information Systems and Programming",
+        "institution": "URTК named after Popov",
+        "period": "2021 - 2025"
+        },
+        {
+        "degree": "Bachelor's Degree. Field: Opera Singing Art",
+        "institution": "Ural State Conservatory named after Mussorgsky",
+        "period": "2025 - 2029"
         }
       ]
     }
@@ -60,13 +66,13 @@
       "title": "Опыт работы",
       "items": [
         {
-          "position": "Преподаватель профессиональных дисциплин, программирования",
+          "position": "Преподаватель по программированию",
           "company": "TOP IT COLLEGE",
           "period": "Февраль 2025 — Настоящее время",
           "responsibilities": [
-            "Преподаю в колледже профессиональные дисциплины и программирование.",
-            "Обучаю управлению IT проектами, программированию на платформе .NET и языку программирования C#.",
-            "Обучаю студентов фреймворку WPF"
+            "Преподаю в колледже следующие дисциплины:",
+            "Управление IT проектами, программирование на платформе .NET и язык программирования C# ,",
+            "Фреймворк WPF"
           ]
         },
         {
@@ -74,18 +80,9 @@
           "company": "Страховая Медицинская Компания \"Астрамед-МС\"",
           "period": "Январь 2024 — Ноябрь 2024",
           "responsibilities": [
-            "С помощью стека T3+postgresql реализовал веб-приложение для медицинской экспертизы.",
-            "Используется tRPC для клиент-серверного взаимодействия. Полностью спроектировал и разработал систему.",
-            "Написал документацию по проекту и продемонстрировал руководителю и заказчикам в лице мед экспертов"
-          ]
-        },
-        {
-          "position": "Креативный директор, Руководитель проекта, Системный аналитик, Геймдизайнер",
-          "company": "Malachite Box",
-          "period": "Июль 2022 — Март 2023",
-          "responsibilities": [
-            "С нуля собрал команду разработки (художники, программисты, композитор) и довёл разработку компьютерной игры до стадии беты.",
-            "Под моим руководством команда вышла в финал конкурса \"Начни игру\"."
+            "Создал веб-приложение для медицинской экспертизы на стеке T3 (Next.js, TypeScript, PostgreSQL), увеличив скорость работы приложения на 65%",
+            "Внедрил tRPC для клиент-серверного взаимодействия, что упростило поддержку приложения за счёт устранения разделения приложения на клиент-сервер",
+            "Подготовил техническую документацию и провёл 15+ демо-сессий для медицинских экспертов, добившись 100% одобрения системы заказчиком"
           ]
         },
         {
@@ -93,7 +90,17 @@
           "company": "Компьютерная академия Top",
           "period": "Сентябрь 2023 — Август 2024",
           "responsibilities": [
-            "Преподавал языки программирования: C++ , С# , WPF , ASP .NET , Blazor и python"
+            "Преподавал языки программирования: C++ , С# , WPF , ASP .NET , Blazor и python",
+            "Выпустил несколько групп, из которых есть студенты получившие офферы в биг-тех компании РФ"
+          ]
+        },
+        {
+          "position": "Креативный директор, Руководитель проекта, Системный аналитик, Геймдизайнер",
+          "company": "Malachite Box",
+          "period": "Июль 2022 — Март 2023",
+          "responsibilities": [
+            "Собрал и возглавил команду из 8 специалистов, выведя игру до бета-версии за 8 месяцев и увеличив пользовательскую вовлечённость на 50% в ходе тестирования",
+            "Обеспечил выход в финал конкурса «Начни игру» с охватом аудитории 10 000+ человек"
           ]
         }
       ]
@@ -105,6 +112,11 @@
           "degree": "Среднее специальное образование. Направление: Информационные системы и программирование",
           "institution": "УРТК им. Попова",
           "period": "2021 - 2025"
+        },
+        {
+          "degree": "Бакалавриат. Направление: Искусство оперного пения",
+          "institution": "Уральская Государственная консерватория им. Мусоргского",
+          "period": "2025 - 2029"
         }
       ]
     }
